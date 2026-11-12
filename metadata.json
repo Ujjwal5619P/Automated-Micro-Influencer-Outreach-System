@@ -1,0 +1,6 @@
+{
+  "name": "InfluenceAI",
+  "description": "AI-Powered Micro-Influencer Discovery, Vetting, Enrichment & Outreach Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
