@@ -3,6 +3,22 @@
 ## Assignment
 EDXSO AI Engineer Intern — Assignment 1
 
+## 🚀 Live Demo
+
+**InfluenceAI is deployed and publicly accessible!**
+
+🌐 **Live Application:** [https://influenceai-frontend.onrender.com/](https://influenceai-frontend.onrender.com/)
+
+You can visit the deployed application to explore the AI-powered micro-influencer discovery and outreach platform.
+
+**Deployment Status:** Live  
+**Hosting Platform:** Render  
+**Source Code:** [GitHub Repository](https://github.com/Ujjwal5619P/Automated-Micro-Influencer-Outreach-System)
+
+> Note: The application uses external API services for influencer discovery and AI-powered personalization. Some features may require configured API credentials. The free hosting instance may take a short time to wake up after inactivity.
+
+
+
 ## Overview
 InfluenceAI is a prototype that discovers YouTube micro-influencers in the AI and Machine Learning niche, evaluates them against configurable qualification criteria, enriches public profile information, drafts personalized collaboration messages, and records simulated outreach.
 
