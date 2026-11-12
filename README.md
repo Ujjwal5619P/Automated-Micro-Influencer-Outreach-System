@@ -151,6 +151,12 @@ Include:
 - Screenshots of dashboard, database, qualification, personalization, campaign, tracker, and analytics
 - Optional short screen recording following the demo walkthrough
 
+## Demo Video
+
+A complete demonstration of InfluenceAI is available here:
+
+[Watch Project Demonstration](https://drive.google.com/file/d/1ohaAlOJXcgOCIQmlPSLtWAcfxxZpPSD4/view?usp=sharing)
+
 ## Known limitations / future improvements
 - Confirm successful live Gemini generation when provider availability is restored.
 - Add exponential retry/backoff for transient Gemini errors (a bounded timeout is already present).
